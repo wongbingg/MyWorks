@@ -8,7 +8,9 @@
 import Foundation
 
 func showHello() {
+    print("Hi")
     print("Hello")
+    print("Test")
 }
 
 showHello()
