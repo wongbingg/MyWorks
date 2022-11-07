@@ -9,4 +9,3 @@ import Foundation
 
 print("Hello, World!")
 
-print("수정사항 발생")
