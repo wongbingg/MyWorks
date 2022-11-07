@@ -7,10 +7,3 @@
 
 import Foundation
 
-func showHello() {
-    print("Hi")
-    print("Hello")
-    print("Test")
-}
-
-print("수정사항 발생")
